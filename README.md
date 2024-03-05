@@ -1,5 +1,5 @@
 # SO_IST
-Operating Systems projects, 1st sem. 2nd year
+Operating Systems projects
 ## clone the repository
 git clone https://github.com/70M45-B/SO_IST.git
 
