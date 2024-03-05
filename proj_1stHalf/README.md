@@ -1,12 +1,7 @@
-# Project 1
+# Project part 1
 ## Programming Language:
 - C
 ## Problem Description:
-
-**Part 1 of the Project:**
-
-The goal of this project is to develop the IST "Event Management System" (IST-EMS), an event management system that allows the creation, reservation, and verification of ticket availability for events such as concerts and theatrical performances. IST-EMS explores parallelization techniques based on multiple processes and multiple tasks to accelerate request processing. While developing IST-EMS, students will also learn how to implement scalable synchronization mechanisms between tasks and inter-process communication mechanisms (FIFOs and signals). IST-EMS will also interact with the file system, offering the opportunity to learn how to use POSIX file system programming interfaces.
-
 **Command Parameters:**
 
 1. **CREATE <event_id> <num_rows> <num_columns>**
